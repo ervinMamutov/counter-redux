@@ -1,0 +1,14 @@
+.box {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+button {
+  border-radius: 7px;
+}
